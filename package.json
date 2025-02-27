@@ -1,0 +1,28 @@
+{
+  "name": "ultra-uniqueid",
+  "version": "1.0.0",
+  "description": "A lightweight and customizable unique ID generator.",
+  "author": "Praveen Ram",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praveenrampk/ultra-uniqueid.git"
+  },
+  "homepage": "https://github.com/praveenrampk/ultra-uniqueid",
+  "bugs": {
+    "url": "https://github.com/praveenrampk/ultra-uniqueid/issues"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "uniqueid",
+    "unique-id",
+    "uid",
+    "random-id",
+    "generator"
+  ],
+  "dependencies": {}
+}
