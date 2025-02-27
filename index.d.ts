@@ -14,4 +14,4 @@ declare function generateUniqueId(
   options?: UniqueIdOptions
 ): string;
 
-export default generateUniqueId;
+export = generateUniqueId;
