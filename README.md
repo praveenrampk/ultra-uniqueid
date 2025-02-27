@@ -12,7 +12,7 @@ A lightweight and customizable unique ID generator for JavaScript and TypeScript
 ## Installation
 
 ```sh
-npm install ultultra-unique-id
+npm install ultra-unique-id
 ```
 
 or
