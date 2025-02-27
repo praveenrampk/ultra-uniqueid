@@ -12,13 +12,13 @@ A lightweight and customizable unique ID generator for JavaScript and TypeScript
 ## Installation
 
 ```sh
-npm install ultra-uniqueid
+npm install ultultra-unique-id
 ```
 
 or
 
 ```sh
-yarn add ultra-uniqueid
+yarn add ultra-unique-id
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ yarn add ultra-uniqueid
 ### Basic Example
 
 ```javascript
-const generateUniqueId = require("ultra-uniqueid");
+const generateUniqueId = require("ultra-unique-id");
 
 const id = generateUniqueId();
 console.log(id); // Example: "XJ9K2Z"
@@ -56,7 +56,7 @@ console.log(id); // Example: "xj9k2zl8pqs3"
 ### TypeScript Usage
 
 ```typescript
-import generateUniqueId, { UniqueIdOptions } from "ultra-uniqueid";
+import generateUniqueId, { UniqueIdOptions } from "ultra-unique-id";
 
 const options: UniqueIdOptions = {
   uppercase: true,
